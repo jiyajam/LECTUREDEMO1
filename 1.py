@@ -13,3 +13,4 @@ print (type(stringVariable))
 #typecasting is fun
 intvariable = int(floatVariable)
 print("here is the the int version of float variable " , intvariable)
+=
